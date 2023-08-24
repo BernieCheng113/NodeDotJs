@@ -1,0 +1,2 @@
+Hello nodejs
+歡迎使用 nodejs
